@@ -1,0 +1,17 @@
+{
+    "name": "finance",
+    "version": "1.0.0",
+    "description": "For Accounting",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "minea",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^25.3.2"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.0"
+    }
+}
